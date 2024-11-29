@@ -1,0 +1,39 @@
+{
+  "packages": [
+    {
+      "name": "Rapid Boards",
+      "maintainer": "Rapid Team",
+      "websiteURL": "https://rapidup.co",
+      "email": "support@rapidup.co",
+      "platforms": [
+        {
+          "name": "Rapid Boards SAMD21",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://drive.google.com/file/d/1BXXMIa-2qlPMKlMIglJbkEnLZ_y3sjVS/view?usp=drive_link",
+          "archiveFileName": "rapidboards_samd21_1.0.0.tar.bz2",
+          "checksum": "SHA-256:509797aae76269aeeefee574fe87c3c89f63b2d45e9d362f589732ec33abd8c1",
+          "size": "102400",
+          "boards": [
+            {
+              "name": "Rapid SAMD21"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
