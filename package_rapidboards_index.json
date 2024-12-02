@@ -14,7 +14,7 @@
           "url": "https://drive.usercontent.google.com/uc?id=15SmDY78WtPtGEkIrxaxW4nFC8n6kMtuy&export=download",
           "archiveFileName": "rapidboards_samd21_1.0.0.tar.bz2",
           "checksum": "SHA-256:c08363b2c02cf07b607c6c038056e5d10d92670ee3cc7a64a8cc9f78062731ed",
-          "size": "2444",
+          "size": "2443",
           "boards": [
             {
               "name": "RapidUp SAMD21"
