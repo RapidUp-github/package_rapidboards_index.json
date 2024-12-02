@@ -11,9 +11,9 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://drive.usercontent.google.com/download?id=1BXXMIa-2qlPMKlMIglJbkEnLZ_y3sjVS&export=download",
+          "url": "https://drive.usercontent.google.com/uc?id=15SmDY78WtPtGEkIrxaxW4nFC8n6kMtuy&export=download",
           "archiveFileName": "rapidboards_samd21_1.0.0.tar.bz2",
-          "checksum": "SHA-256:509797aae76269aeeefee574fe87c3c89f63b2d45e9d362f589732ec33abd8c1",
+          "checksum": "SHA-256:c08363b2c02cf07b607c6c038056e5d10d92670ee3cc7a64a8cc9f78062731ed",
           "size": "2444",
           "boards": [
             {
@@ -30,6 +30,21 @@
               "packager": "arduino",
               "name": "bossac",
               "version": "1.7.0"
+            },
+			{
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+			{
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+			{
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
             }
           ]
         }
