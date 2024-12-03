@@ -1,20 +1,21 @@
 {
   "packages": [
     {
-      "name": "Rapid Boards",
-      "maintainer": "RapidUp Team",
+      "name": "RapidUp",
+      "maintainer": "RapidUp Tech",
       "websiteURL": "https://rapidup.co",
+	  "Url": "https://raw.githubusercontent.com/RapidUp-github/package_rapidboards_index.json/refs/heads/main/package_rapidboards_index.json",
       "email": "support@rapidup.co",
       "platforms": [
         {
-          "name": "Rapid Boards SAMD21",
+          "name": "RapidUp",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://drive.usercontent.google.com/uc?id=1wVS59fGNCk7AnZNUYrm-KHO2OdnmJeUk&export=download",
-          "archiveFileName": "rapidboards_samd21_1.0.0.tar.bz2",
-          "checksum": "SHA-256:7428ffc245c0b53bc87172b9a1215427939f233b1b935356a74d54cf8f612607",
-          "size": "789249",
+          "archiveFileName": "rapidUp_samd21_1.0.0.tar.bz2",
+          "checksum": "SHA-256:66ed2e263dcd81e581d66f30561e5e29830bc4858e44bac17153862fbd679f12",
+          "size": "790752",
           "boards": [
             {
               "name": "RapidUp SAMD21"
