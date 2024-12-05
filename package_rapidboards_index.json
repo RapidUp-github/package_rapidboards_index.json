@@ -12,10 +12,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://drive.usercontent.google.com/uc?id=10bXaawguxU2bHugpwV_QZvv_VHjSBZZv&export=download",
+          "url": "https://github.com/RapidUp-github/rapidup_samd21/raw/refs/heads/main/rapidup_samd21_1.0.0.tar.bz2",
           "archiveFileName": "rapidUp_samd21_1.0.0.tar.bz2",
-          "checksum": "SHA-256:66ed2e263dcd81e581d66f30561e5e29830bc4858e44bac17153862fbd679f12",
-          "size": "790752",
+          "checksum": "SHA-256:59c15e5bcde7ae72d625bccbc2357ed60c5c6439545c6dcbf6f6c69016889482",
+          "size": "773955",
           "boards": [
             {
               "name": "RapidUp SAMD21"
